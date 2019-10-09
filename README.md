@@ -4,6 +4,7 @@
   - Họ Và Tên : Nguyễn Viết Trí
   - Lớp : CNTT5 - K13
   - facebook : [Trí NGuyễn](https://www.facebook.com/viettriit2110)
+  - sđt : 0383087803
  # Lịch học của lớp:
  -  18h Tối thứ 7 hàng tuần, tại tầng 9 nhà A1 tại phòng clb tin học HIT
 # Group Facebook: 
