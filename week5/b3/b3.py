@@ -8,4 +8,4 @@ for key in arr:
     if Max < arr[key]:
         Max = arr[key]
         nho = key
-print(nho)
+print("Tên người giải được nhiều câu đố nhất là: ", nho)
